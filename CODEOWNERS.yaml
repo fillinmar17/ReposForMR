@@ -1,12 +1,12 @@
 codeOwnership:
   - paths:
-    - src/**
+    - src/**/*
     owners:
       - email: ma.novikova@MAC2520OKKO.local
         telegramId: 415887410
         name: Marina Novikova
   - paths:
-      - src/reviewers/
+      - src/reviewers/**/*
     owners:
         - email: pupkin1701@example.com
           telegramId: 7631852581

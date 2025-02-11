@@ -6,8 +6,8 @@ codeOwnership:
         telegramId: 415887410
         name: Marina Novikova
   - paths:
-      - src/reviewers/**/*
+      - src/app/**/*
     owners:
-        - email: pupkin1701@example.com
-          telegramId: 7631852581
-          name: Vasilii Pupkin
+      - email: mar.nv17@gmail.com
+        telegramId: 7631852581
+        name: Vasilii Pupkin

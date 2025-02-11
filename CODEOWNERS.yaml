@@ -2,11 +2,11 @@ codeOwnership:
   - paths:
     - src/**/*
     owners:
-      - email: ma.novikova@MAC2520OKKO.local
+      - email: mar.nv17@mail.ru
         telegramId: 415887410
-        name: Marina Novikova
+        name: fillinmar17
   - paths:
-      - src/app/**/*
+      - *
     owners:
       - email: mar.nv17@gmail.com
         telegramId: 7631852581

@@ -6,7 +6,7 @@ codeOwnership:
         telegramId: 415887410
         name: fillinmar17
   - paths:
-      - *
+    - "*"
     owners:
       - email: mar.nv17@gmail.com
         telegramId: 7631852581
